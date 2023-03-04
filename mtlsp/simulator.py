@@ -7,10 +7,10 @@ import os, sys
 #     sys.exit("please declare environment variable 'SUMO_HOME'")
 import conf.conf as conf
 libsumo_flag = (not conf.simulation_config["gui_flag"])
-if libsumo_flag:
-    import libsumo as traci
-else:
-    import traci
+# if libsumo_flag:
+#     import libsumo as traci
+# else:
+import traci
 import traci.constants as tc
 import sumolib
 import numpy as np
@@ -163,6 +163,8 @@ class Simulator(object):
             if libsumo_flag:
                 traci.start(sumoCmd)
             else:
+                sumoCmd += ["-S"]
+                sumoCmd += ["--quit-on-end", "true"]
                 traci.start(sumoCmd, numRetries = self.num_tries)
         else:
             self.env.initialize()
