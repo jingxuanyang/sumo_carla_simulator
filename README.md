@@ -1,10 +1,10 @@
-# Dense reinforcement learning for safety validation of autonomous vehicles
+# sumo_carla_simulator
 
 <!-- ABOUT THE PROJECT -->
 # Introduction of the Project
 
 ## About
-This project contains the source code and data for "Dense reinforcement learning for safety validation of autonomous vehicles". 
+This project contains the source code and data for "xxxx". 
 ## Features
 Users can use this repo to generate testing trajectories, process and analyse simulation results.
 
@@ -14,7 +14,7 @@ Users can use this repo to generate testing trajectories, process and analyse si
 
 An illustration is as follows:
 
-- Dense-Deep-Reinforcement-Learning/
+- D2RL/
   - conf: configurations for raw data generation and data analysis
   - maps: maps for data generation
   - checkpoints: model checkpoints for D2RL in raw data generation step
