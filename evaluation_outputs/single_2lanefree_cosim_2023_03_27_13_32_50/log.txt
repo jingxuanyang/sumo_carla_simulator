@@ -1,0 +1,66 @@
+***********Localization Module***********
+Actor ID: 87
+mean error for GNSS raw data on x-axis: 0.111601 (meter), mean error for GNSS raw data on y-axis: 0.195350 (meter),mean error for GNSS raw data on yaw : 0.075386 (degree) 
+mean error after data fusion on x-axis: 0.043335 (meter), mean error after data fusion  on y-axis: 0.064951 (meter),mean error after data fusion yaw : 0.038196 (degree) 
+
+Actor ID: 92
+mean error for GNSS raw data on x-axis: 0.111181 (meter), mean error for GNSS raw data on y-axis: 0.193031 (meter),mean error for GNSS raw data on yaw : 0.073618 (degree) 
+mean error after data fusion on x-axis: 0.043881 (meter), mean error after data fusion  on y-axis: 0.064078 (meter),mean error after data fusion yaw : 0.053721 (degree) 
+
+Actor ID: 95
+mean error for GNSS raw data on x-axis: 0.111181 (meter), mean error for GNSS raw data on y-axis: 0.193031 (meter),mean error for GNSS raw data on yaw : 0.085375 (degree) 
+mean error after data fusion on x-axis: 0.043319 (meter), mean error after data fusion  on y-axis: 0.064518 (meter),mean error after data fusion yaw : 0.038361 (degree) 
+
+Actor ID: 98
+mean error for GNSS raw data on x-axis: 0.111181 (meter), mean error for GNSS raw data on y-axis: 0.193031 (meter),mean error for GNSS raw data on yaw : 0.077448 (degree) 
+mean error after data fusion on x-axis: 0.043941 (meter), mean error after data fusion  on y-axis: 0.064582 (meter),mean error after data fusion yaw : 0.040778 (degree) 
+
+Actor ID: 101
+mean error for GNSS raw data on x-axis: 0.109238 (meter), mean error for GNSS raw data on y-axis: 0.192851 (meter),mean error for GNSS raw data on yaw : 0.092701 (degree) 
+mean error after data fusion on x-axis: 0.042916 (meter), mean error after data fusion  on y-axis: 0.061984 (meter),mean error after data fusion yaw : 0.083396 (degree) 
+
+***********Kinematics Module***********
+Actor ID: 87
+Speed average: nan (m/s), Speed std: nan (m/s) 
+Acceleration average: nan (m/s), Acceleration std: nan (m/s) 
+TTC average: nan (m/s), TTC std: nan (m/s) 
+
+Actor ID: 92
+Speed average: nan (m/s), Speed std: nan (m/s) 
+Acceleration average: nan (m/s), Acceleration std: nan (m/s) 
+TTC average: nan (m/s), TTC std: nan (m/s) 
+
+Actor ID: 95
+Speed average: nan (m/s), Speed std: nan (m/s) 
+Acceleration average: nan (m/s), Acceleration std: nan (m/s) 
+TTC average: nan (m/s), TTC std: nan (m/s) 
+
+Actor ID: 98
+Speed average: nan (m/s), Speed std: nan (m/s) 
+Acceleration average: nan (m/s), Acceleration std: nan (m/s) 
+TTC average: nan (m/s), TTC std: nan (m/s) 
+
+Actor ID: 101
+Speed average: nan (m/s), Speed std: nan (m/s) 
+Acceleration average: nan (m/s), Acceleration std: nan (m/s) 
+TTC average: nan (m/s), TTC std: nan (m/s) 
+
+***********Platooning Analysis***********
+Platoon ID: d5ec1786-cc60-11ed-9820-94e70b80391d
+
+ Platoon member ID:0, Actor ID:87 : 
+Time gap mean: nan, std: nan 
+Distance gap mean: nan, std: nan 
+
+ Platoon member ID:1, Actor ID:92 : 
+Time gap mean: nan, std: nan 
+Distance gap mean: nan, std: nan 
+
+ Platoon member ID:2, Actor ID:95 : 
+Time gap mean: nan, std: nan 
+Distance gap mean: nan, std: nan 
+
+ Platoon member ID:3, Actor ID:98 : 
+Time gap mean: nan, std: nan 
+Distance gap mean: nan, std: nan 
+
